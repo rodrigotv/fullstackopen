@@ -1,0 +1,1 @@
+Part 1 of the Full Stack Open course - Anecdotes exercise
