@@ -5,7 +5,7 @@ sequenceDiagram
 
     browser->>server: POST https://studies.cs.helsinki.fi/exampleapp/new_note
     activate server
-    server-->>browser: HTML status 302 / Location: https://studies.cs.helsinki.fi/exampleapp/notes
+    server-->>browser: HTML status 302 | Location: https://studies.cs.helsinki.fi/exampleapp/notes
     Note right of server: Parse data received and update the JSON file
     deactivate server
 
