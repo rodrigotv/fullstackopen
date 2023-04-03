@@ -1,1 +1,0 @@
-Part 2 of the Full Stack Open course

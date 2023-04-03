@@ -1,1 +1,1 @@
-Part 1 of the Full Stack Open course - Anecdotes exercise
+Exercises 1.12 - 1.14

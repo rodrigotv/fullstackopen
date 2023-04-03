@@ -1,1 +1,1 @@
-Part 1 of the Full Stack Open course - Course Info exercise
+Exercises 1.1 - 1.5

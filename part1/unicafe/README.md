@@ -1,1 +1,1 @@
-Part 1 of the Full Stack Open course - Unicafe exercise
+Exercises 1.6 - 1.11
