@@ -3,9 +3,9 @@ sequenceDiagram
     participant browser
     participant server
 
-    Note left of server: User sends input
-    Note left of server: Notes array is updated
-    Note left of server: Notes are redrawn
+    Note left of browser: User sends input
+    Note left of browser: Notes array is updated
+    Note left of browser: Notes are redrawn
 
     browser->>server: POST /exampleapp/new_note_spa | Content-type: application/json
     activate server
